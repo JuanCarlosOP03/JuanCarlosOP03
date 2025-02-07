@@ -40,7 +40,7 @@ Soy **Ingeniero Industrial** apasionado por el análisis y la ingeniería de dat
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/153px-Tux.svg.png" alt="Linux" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/480px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Qlik_Logo_No_Trademark_2_Color_Positive_RGB.png/330px-Qlik_Logo_No_Trademark_2_Color_Positive_RGB.png" alt="aws" width="150">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/375px-Power_bi_logo_black.svg.png" alt="aws" width="150">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/375px-Power_bi_logo_black.svg.png" alt="aws" width="100">
 </p>
 
 
