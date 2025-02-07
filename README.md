@@ -34,13 +34,13 @@ Soy **Ingeniero Industrial** apasionado por el análisis y la ingeniería de dat
 ¡Gracias por visitar mi perfil y espero que encuentres algo interesante en mis proyectos!
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/375px-AirflowLogo.png" alt="Airflow" width="150" style="margin-right: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/768px-Apache_Spark_logo.svg.png" alt="Spark" width="150">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Docker_%28container_engine%29_logo.png/420px-Docker_%28container_engine%29_logo.png" alt="Docker" width="150">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/375px-AirflowLogo.png" alt="Airflow" width="130" style="margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/768px-Apache_Spark_logo.svg.png" alt="Spark" width="130">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Docker_%28container_engine%29_logo.png/420px-Docker_%28container_engine%29_logo.png" alt="Docker" width="130">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/153px-Tux.svg.png" alt="Linux" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/480px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="100">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Qlik_Logo_No_Trademark_2_Color_Positive_RGB.png/330px-Qlik_Logo_No_Trademark_2_Color_Positive_RGB.png" alt="aws" width="150">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/375px-Power_bi_logo_black.svg.png" alt="aws" width="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Qlik_Logo_No_Trademark_2_Color_Positive_RGB.png/330px-Qlik_Logo_No_Trademark_2_Color_Positive_RGB.png" alt="aws" width="130">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/375px-Power_bi_logo_black.svg.png" alt="aws" width="90">
 </p>
 
 
